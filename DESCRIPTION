@@ -1,0 +1,7 @@
+Package: baryplot
+Title: Barycentric plots
+Version: 1.1
+Author: Richard McElreath
+Description: This package contains functions for plotting barycentric (ternary, mixture, triangle) coordinates. It has a number of functions specialized for plotting game theoretic system dynamics.
+Maintainer: <richard_mcelreath@eva.mpge.de>
+License: GNU GPL
